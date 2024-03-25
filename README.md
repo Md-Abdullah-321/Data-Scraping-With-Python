@@ -42,7 +42,7 @@ To get started with data scraping using Python and pandas, follow these steps:
    cd data-scraping-python-pandas
    ````
 
-## You can use the code and examples provided in this repository to:
+### You can use the code and examples provided in this repository to:
 
 - Learn the basics of data scraping with Python.
 - Understand how to use pandas for data manipulation and analysis.
