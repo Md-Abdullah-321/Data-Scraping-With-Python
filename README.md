@@ -39,8 +39,6 @@ pip install pandas
    git clone https://github.com/your_username/data-scraping-python-pandas.git
    ```
 
-````
-
 2. ```bash
  cd data-scraping-python-pandas
 ````
