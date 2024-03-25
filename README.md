@@ -31,7 +31,7 @@ You can install pandas using pip:
 pip install pandas
 ```
 
-# Getting Started
+## Getting Started
 To get started with data scraping using Python and pandas, follow these steps:
 
 1. ```bash
@@ -41,8 +41,7 @@ To get started with data scraping using Python and pandas, follow these steps:
 2. ```bash
    cd data-scraping-python-pandas
    ````
-
-### You can use the code and examples provided in this repository to:
+You can use the code and examples provided in this repository to:
 
 - Learn the basics of data scraping with Python.
 - Understand how to use pandas for data manipulation and analysis.
