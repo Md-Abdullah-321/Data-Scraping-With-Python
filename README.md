@@ -9,7 +9,6 @@ This repository contains code and resources for learning data scraping with Pyth
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -41,6 +40,8 @@ To get started with data scraping using Python and pandas, follow these steps:
 2. ```bash
    cd data-scraping-python-pandas
    ````
+
+## Usage
 You can use the code and examples provided in this repository to:
 
 - Learn the basics of data scraping with Python.
