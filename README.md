@@ -40,7 +40,7 @@ pip install pandas
    ```
 
 2. ```bash
- cd data-scraping-python-pandas
+    cd data-scraping-python-pandas
    ````
 
 ## You can use the code and examples provided in this repository to:
