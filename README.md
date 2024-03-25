@@ -45,8 +45,6 @@ pip install pandas
  cd data-scraping-python-pandas
 ````
 
-## Usage
-
 # You can use the code and examples provided in this repository to:
 
 - Learn the basics of data scraping with Python.
