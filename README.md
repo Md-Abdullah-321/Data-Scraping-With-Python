@@ -33,7 +33,7 @@ pip install pandas
 
 # Getting Started
 
-## To get started with data scraping using Python and pandas, follow these steps:
+### To get started with data scraping using Python and pandas, follow these steps:
 
 1. ```bash
    git clone https://github.com/your_username/data-scraping-python-pandas.git
